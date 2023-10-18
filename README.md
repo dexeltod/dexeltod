@@ -1,5 +1,5 @@
 ### Потом оформлю
-<img url="https://i.pinimg.com/originals/58/9c/74/589c746f4beba883a0802c940c86a57f.gif"></img>
+
 <!--
 **dexeltod/dexeltod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
