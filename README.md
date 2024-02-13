@@ -3,8 +3,7 @@
 Knowledges:
 
 Unity
+<br/>
 Addressables, UniTask, MVx, Shader Graph, VFX Graph, VContainer, Zenject, Mixamo, Blender
-	
-
-
+<br/>
 <img src="https://preview.redd.it/wr8kgpez27781.png?width=3840&format=png&auto=webp&s=8be6b67e36bc23ab3d57e7644dd2e47e03cbcae9" style="max-width: 100%;"/>
