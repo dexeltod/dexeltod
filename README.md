@@ -8,7 +8,7 @@
   <h3>My knowledges</h1>
 <div align="center"><h4>Unity</h4></div>       
 <div align="center"/>
-   Addressables, UniTask, MVx, Shader Graph, VFX Graph, VContainer, Zenject, Mixamo, Blender
+   Addressables, UniTask, MVx, Shader Graph, VFX Graph, VContainer, Zenject, Mixamo, Blender, Unity Cloud Saves, Unity Cloud Config, YandexSDK
 </div>
    <br/>
   <hr/>
@@ -16,7 +16,7 @@
   <h4>Web</h4>
 </div>
 <div align="center"/>
-   React, RTK, TypeScript, JavaScript, Nodemon, bcrypt, Express.js, styled components, yarn, tailwind
+   React, RTK, TypeScript, JavaScript, Nodemon, bcrypt, Express.js, styled components, yarn, tailwind, NodeJS
 </div>
 
 </div>
