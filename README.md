@@ -2,9 +2,10 @@
 	
 
 	
-				###Knowledges:
-				###Unity
-				Addressables, UniTask, MVx, Shader Graph, VFX Graph, VContainer, Zenject, Mixamo, Blender
+###Knowledges:
+
+Unity
+Addressables, UniTask, MVx, Shader Graph, VFX Graph, VContainer, Zenject, Mixamo, Blender
 	
 
 
