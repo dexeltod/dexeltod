@@ -6,11 +6,13 @@
 # My knowledges:
   
 <div align="center">
-  Unity
+  [Unity]
+</div>
  
        
 <div align="center"/>
    Addressables, UniTask, MVx, Shader Graph, VFX Graph, VContainer, Zenject, Mixamo, Blender
+   </div>
 
 
 # Social media:
