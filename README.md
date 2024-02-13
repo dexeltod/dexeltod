@@ -1,36 +1,38 @@
 <div align="center">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/255965188109565887/BCC11EBFC8674C7E0AB0D8DA6F93FEF6A0F1DBFA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="max-width: 100%;"/>
 <div/>
+  
 <br/>
 
-# My knowledges:
-  
-<div align="center">
-  [Unity]
-</div>
- 
-       
+<div>  
+  <h3>My knowledges</h1>
+<div align="center"><h4>Unity</h4></div>       
 <div align="center"/>
    Addressables, UniTask, MVx, Shader Graph, VFX Graph, VContainer, Zenject, Mixamo, Blender
-   </div>
+</div>
+   <br/>
+  <hr/>
+<div align="center"> 
+  <h4>Web</h4>
+</div>
+<div align="center"/>
+   React, RTK, TypeScript, JavaScript, Nodemon, bcrypt, Express.js, styled components, yarn, tailwind
+</div>
 
-
-# Social media:
-
+</div>
+ <hr/>
 <div align="left"/>
-  <ul>
-    <li>
-        <a href="https://t.me/dexeltod">Telegram<a/>     
-    </li>
-    <li>
-      <a href="https://www.youtube.com/channel/UCbDK2YvV5lLEkJMGpod1grw">Youtube<a/>       
-    </li>
-  </ul>
-
-<br/>
-
-<div align="center">
-<img src="https://preview.redd.it/wr8kgpez27781.png?width=3840&format=png&auto=webp&s=8be6b67e36bc23ab3d57e7644dd2e47e03cbcae9" style="max-width: 70%;"/>
-  
+    <h3>Social media:<h3/>
+      <ul>
+        <li>
+            <a href="https://t.me/dexeltod">Telegram<a/>     
+        </li>
+        <li>
+          <a href="https://www.youtube.com/channel/UCbDK2YvV5lLEkJMGpod1grw">Youtube<a/>       
+        </li>
+      </ul>
+<div/>
+<div align="left">
+    <img src="https://preview.redd.it/wr8kgpez27781.png?width=3840&format=png&auto=webp&s=8be6b67e36bc23ab3d57e7644dd2e47e03cbcae9" style="max-width: 70%;"/>  
 </div>
 
