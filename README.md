@@ -3,17 +3,6 @@
   <br />
 
 </div>
-
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
-
 <p>
 
 <img alt="Globe" height="80" src="images/globe.gif">
