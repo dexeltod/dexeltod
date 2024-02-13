@@ -4,4 +4,4 @@ Unity
 <br/>
 Addressables, UniTask, MVx, Shader Graph, VFX Graph, VContainer, Zenject, Mixamo, Blender
 <br/>
-<img src="https://i.pinimg.com/originals/10/0c/6c/100c6cc048a16d62cf0325b4c0ac0e1e.png" style="max-width: 100%;"/>
+<img src="https://preview.redd.it/wr8kgpez27781.png?width=3840&format=png&auto=webp&s=8be6b67e36bc23ab3d57e7644dd2e47e03cbcae9" style="max-width: 100%;"/>
