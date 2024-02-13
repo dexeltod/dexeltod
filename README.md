@@ -3,24 +3,32 @@
 <div/>
 <br/>
 
-### My knowledges:
+# My knowledges:
   
 <div align="center">
   Unity
-  <br/>
+ 
        
 <div align="center"/>
    Addressables, UniTask, MVx, Shader Graph, VFX Graph, VContainer, Zenject, Mixamo, Blender
-<br/>
 
-### Social media:
 
-<div align="center"/>
-   none
+# Social media:
+
+<div align="left"/>
+  <ul>
+    <li>
+        <a href="https://t.me/dexeltod">Telegram<a/>     
+    </li>
+    <li>
+      <a href="https://www.youtube.com/channel/UCbDK2YvV5lLEkJMGpod1grw">Youtube<a/>       
+    </li>
+  </ul>
+
 <br/>
 
 <div align="center">
-<img src="https://preview.redd.it/wr8kgpez27781.png?width=3840&format=png&auto=webp&s=8be6b67e36bc23ab3d57e7644dd2e47e03cbcae9" style="max-width: 100%;"/>
+<img src="https://preview.redd.it/wr8kgpez27781.png?width=3840&format=png&auto=webp&s=8be6b67e36bc23ab3d57e7644dd2e47e03cbcae9" style="max-width: 70%;"/>
   
 </div>
 
