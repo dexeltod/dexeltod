@@ -33,6 +33,7 @@
       </ul>
 <div/>
 <div align="left">
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/837016417756088462/86E3CA96A4D29050989282A122917E64B87CA3AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="60%"/> 
+    <img  src="https://steamuserimages-a.akamaihd.net/ugc/837016417756088462/86E3CA96A4D29050989282A122917E64B87CA3AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="50%"/> 
+   <img src="https://steamuserimages-a.akamaihd.net/ugc/949585287388943533/DA3244C4924C145B73328EEA9DC29439B336ABF5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="40%"/> 
 </div>
 
