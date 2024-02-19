@@ -16,7 +16,7 @@
   <h4>Web</h4>
 </div>
 <div align="center"/>
-   React, RTK, TypeScript, JavaScript, Nodemon, bcrypt, Express.js, styled components, yarn, tailwind, NodeJS
+   React, RTK, TypeScript, JavaScript, Nodemon, bcrypt, Express.js, styled components, yarn, tailwind, NodeJS, alias
 </div>
 
 </div>
