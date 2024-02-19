@@ -33,6 +33,6 @@
       </ul>
 <div/>
 <div align="left">
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db6312fb-59ab-4bef-9468-539e6ba6bf57/dc57e7t-535add4b-5ea8-42d0-bbe2-00b3eb54ff8f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiNjMxMmZiLTU5YWItNGJlZi05NDY4LTUzOWU2YmE2YmY1N1wvZGM1N2U3dC01MzVhZGQ0Yi01ZWE4LTQyZDAtYmJlMi0wMGIzZWI1NGZmOGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kRIbRJwUFVWWW_cXznjC5omkvAD-pTWCJ0ckutdgmxs" width="60%"/> 
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/837016417756088462/86E3CA96A4D29050989282A122917E64B87CA3AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="60%"/> 
 </div>
 
